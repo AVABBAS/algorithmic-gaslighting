@@ -1,26 +1,17 @@
-﻿# Step 12 - Report Generation
+# Section 12 — Report Generation: HTML, JSON, CSV & Auto-Download
 
 ## Overview
-This document covers the Report Generation phase of the algorithmic gaslighting analysis pipeline.
+Generation of professional export package with organized folder structure, comprehensive HTML report with CSS styling, JSON structured results, executive summary, master dataset CSV, and automatic ZIP archive creation with auto-download in Google Colab.
 
-## Objectives
-- Objective 1
-- Objective 2
-- Objective 3
-
-## Methodology
-Detailed methodology for this phase will be documented here.
+## Key Components
+- **Folder Structure:** 8 organized directories (Reports, Data, Plots, Statistics, Embeddings, Clustering, Phenomena, Resistance/Acceptance)
+- **HTML Report:** Full CSS styling, model cards, RDI tables, phenomenon analysis, visualization gallery
+- **JSON Report:** Machine-readable structured results
+- **Executive Summary:** Text summary of key findings
+- **ZIP Archive:** All files compressed with professional naming
+- **Auto-Download:** Automatic download trigger in Colab
 
 ## Implementation
-Reference implementation: src/12_report_generation.py
+`src/12_report_generation.py`
 
-## Expected Outcomes
-- Outcome 1
-- Outcome 2
-- Outcome 3
-
-## Dependencies
-- Required libraries listed in Requirements file
-
-## Notes
-Additional notes and considerations for this phase.
+## Output Package Structure
