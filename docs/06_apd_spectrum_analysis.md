@@ -1,26 +1,27 @@
-﻿# Step 06 - Behavioral Phenotyping
+# Section 06 — APD Spectrum Analysis: Algorithmic Perceptual Distortion Mapping
 
 ## Overview
-This document covers the Behavioral Phenotyping phase of the algorithmic gaslighting analysis pipeline.
+Operationalization of the Algorithmic Perceptual Distortion (APD) spectrum theoretical framework from the paper. Computation of APD coordinates (X = Reality Concession, Y = Experiential Harm), quadrant classification, model centroid positioning with error ellipses, and phenomenon-to-spectrum mapping.
 
-## Objectives
-- Objective 1
-- Objective 2
-- Objective 3
-
-## Methodology
-Detailed methodology for this phase will be documented here.
+## Key Components
+- **APD X-axis:** Reality Concession (SI × 0.6 + (1−RCS) × 0.4)
+- **APD Y-axis:** Experiential Harm Potential (CMS × 0.5 + Claude Paradox × 0.3 + AES × 0.2)
+- **4 Quadrants:**
+  - I: BAG/RSS Zone (High Concession, High Harm)
+  - II: HAG/Claude Paradox Zone (Low Concession, High Harm)
+  - III: Truth Defense Zone (Low Concession, Low Harm)
+  - IV: Benign Accommodation (High Concession, Low Harm)
+- **Distance Matrix:** Euclidean distances between model centroids
 
 ## Implementation
-Reference implementation: src/06_behavioral_phenotyping.py
+`src/06_apd_spectrum_analysis.py`
 
-## Expected Outcomes
-- Outcome 1
-- Outcome 2
-- Outcome 3
+## Key Findings
+- GPT centroid: (0.73, 0.47) — Quadrant I
+- Claude centroid: (0.15, 0.27) — Quadrant II/III boundary
+- Gemini centroid: (0.46, 0.27) — Transitions between quadrants
+- GPT–Claude distance: largest separation on spectrum
 
-## Dependencies
-- Required libraries listed in Requirements file
-
-## Notes
-Additional notes and considerations for this phase.
+## Output
+- `apd_spectrum_analysis.png`
+- `master_dataset_with_apd.csv`
