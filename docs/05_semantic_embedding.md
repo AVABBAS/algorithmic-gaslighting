@@ -1,26 +1,20 @@
-﻿# Step 05 - Semantic Embedding
+# Section 05 — Semantic Embedding: Sentence-Transformers Vectorization
 
 ## Overview
-This document covers the Semantic Embedding phase of the algorithmic gaslighting analysis pipeline.
+Generation of semantic embeddings for all responses using Sentence-Transformers (all-MiniLM-L6-v2, 384 dimensions), similarity analysis within and between models, PCA dimensionality reduction, and centroid-based distance metrics.
 
-## Objectives
-- Objective 1
-- Objective 2
-- Objective 3
-
-## Methodology
-Detailed methodology for this phase will be documented here.
+## Key Components
+- **Model:** all-MiniLM-L6-v2 (384-dim embeddings)
+- **Session-level embeddings:** 15 vectors (combined 6 responses each)
+- **Turn-level embeddings:** 90 vectors (individual responses)
+- **Similarity Analysis:** Within-model vs between-model cosine similarity
+- **PCA:** 10 principal components added to master dataset
+- **Centroid Distances:** Distance from Claude centroid (truth defense) and GPT centroid (sycophancy)
 
 ## Implementation
-Reference implementation: src/05_semantic_embedding.py
+`src/05_semantic_embedding.py`
 
-## Expected Outcomes
-- Outcome 1
-- Outcome 2
-- Outcome 3
-
-## Dependencies
-- Required libraries listed in Requirements file
-
-## Notes
-Additional notes and considerations for this phase.
+## Output
+- `session_embeddings.npy`: (15, 384)
+- `turn_embeddings.npy`: (90, 384)
+- `master_dataset_with_embeddings.csv`
