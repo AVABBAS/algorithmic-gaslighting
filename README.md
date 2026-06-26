@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="images/Algorithmic_Gaslighting_Slide_1.png" alt="Algorithmic Gaslighting Conceptual Framework" width="800">
 </p>
  
@@ -57,4 +57,5 @@ Abbas Hamidavi
 Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran  
 Email: abbashamidavi2002@gmail.com  
 ORCID: [0009-0001-7342-7844](https://orcid.org/0009-0001-7342-7844) [1]
+
 
