@@ -1,4 +1,4 @@
-# Algorithmic Gaslighting: Reality Distortion by Large Language Models
+﻿# Algorithmic Gaslighting: Reality Distortion by Large Language Models
 
 [![OSF Data](https://img.shields.io/badge/Data-OSF_Project-blue)](https://osf.io/qsvty)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -53,3 +53,4 @@ Abbas Hamidavi
 Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran  
 Email: abbashamidavi2002@gmail.com  
 ORCID: [0009-0001-7342-7844](https://orcid.org/0009-0001-7342-7844) [1]
+
