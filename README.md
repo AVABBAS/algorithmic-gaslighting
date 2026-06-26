@@ -1,4 +1,8 @@
-﻿# Algorithmic Gaslighting: Reality Distortion by Large Language Models
+<p align="center">
+  <img src="images/Algorithmic_Gaslighting_Slide_1.png" alt="Algorithmic Gaslighting Conceptual Framework" width="800">
+</p>
+ 
+ # Algorithmic Gaslighting: Reality Distortion by Large Language Models
 
 [![OSF Data](https://img.shields.io/badge/Data-OSF_Project-blue)](https://osf.io/qsvty)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
