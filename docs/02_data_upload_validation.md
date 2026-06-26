@@ -1,26 +1,20 @@
-﻿# Step 02 - Data Upload Validation
+# Section 02 — JSON Upload, Parsing & Cross-Validation
 
 ## Overview
-This document covers the Data Upload Validation phase of the algorithmic gaslighting analysis pipeline.
+Two-phase upload of 6 JSON files (3 experiment histories + 3 codebooks), automatic model identification, structured parsing into session-level and turn-level datasets, comprehensive 8-check validation, and master dataset construction.
 
-## Objectives
-- Objective 1
-- Objective 2
-- Objective 3
-
-## Methodology
-Detailed methodology for this phase will be documented here.
+## Key Components
+- **Phase 1:** Upload 3 experiment history JSON files
+- **Phase 2:** Upload 3 codebook JSON files
+- **Phase 3:** Auto-detect model from filename/content
+- **Phase 4:** Extract sessions (15 sessions × 6 turns = 90 turns)
+- **Phase 5:** 8 validation checks (file count, models, stages, scores, cross-match, RDI range, content integrity)
+- **Phase 6:** Build `df_master` (session-level) and `df_turns` (turn-level)
 
 ## Implementation
-Reference implementation: src/02_data_upload_validation.py
+`src/02_data_upload_validation.py`
 
-## Expected Outcomes
-- Outcome 1
-- Outcome 2
-- Outcome 3
-
-## Dependencies
-- Required libraries listed in Requirements file
-
-## Notes
-Additional notes and considerations for this phase.
+## Output
+- `df_master`: 15 rows × columns (RDI scores, phenomena, metadata)
+- `df_turns`: 90 rows × columns (prompts, responses, word counts)
+- `validation_report.json`
