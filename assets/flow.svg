@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="152" viewBox="0 0 1160 152" role="img" aria-label="Study flow">
+  <rect x="10" y="30" width="356" height="92" rx="12" fill="#1d4266"/>
+  <rect x="10" y="30" width="356" height="6" rx="3" fill="#c9a227"/>
+  <text x="188" y="70" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Five distortion scenarios</text>
+  <text x="188" y="98" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cfdde9">False-attribution probes</text>
+  <text x="380" y="86" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#8aa3ba">→</text>
+  <rect x="394" y="30" width="356" height="92" rx="12" fill="#1d4266"/>
+  <rect x="394" y="30" width="356" height="6" rx="3" fill="#c9a227"/>
+  <text x="572" y="70" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">15 sessions</text>
+  <text x="572" y="98" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cfdde9">Five per model, three models</text>
+  <text x="764" y="86" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#8aa3ba">→</text>
+  <rect x="778" y="30" width="356" height="92" rx="12" fill="#1d4266"/>
+  <rect x="778" y="30" width="356" height="6" rx="3" fill="#c9a227"/>
+  <text x="956" y="70" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">RDI scoring</text>
+  <text x="956" y="98" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cfdde9">Plus an independent second rater</text>
+</svg>

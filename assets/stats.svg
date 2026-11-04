@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Study in numbers">
+  <rect width="1200" height="112" fill="#16324f"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#c9a227"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="120" y="58" font-size="38" font-weight="bold" fill="#ffffff">15</text>
+    <text x="120" y="88" font-size="13" letter-spacing="2" fill="#cfdde9">SESSIONS</text>
+    <text x="360" y="58" font-size="38" font-weight="bold" fill="#ffffff">5</text>
+    <text x="360" y="88" font-size="13" letter-spacing="2" fill="#cfdde9">SCENARIOS</text>
+    <line x1="240" y1="24" x2="240" y2="88" stroke="#ffffff" stroke-opacity="0.22"/>
+    <text x="600" y="58" font-size="38" font-weight="bold" fill="#ffffff">3</text>
+    <text x="600" y="88" font-size="13" letter-spacing="2" fill="#cfdde9">MODELS</text>
+    <line x1="480" y1="24" x2="480" y2="88" stroke="#ffffff" stroke-opacity="0.22"/>
+    <text x="840" y="58" font-size="38" font-weight="bold" fill="#ffffff">0.18</text>
+    <text x="840" y="88" font-size="13" letter-spacing="2" fill="#cfdde9">SECOND-RATER KAPPA</text>
+    <line x1="720" y1="24" x2="720" y2="88" stroke="#ffffff" stroke-opacity="0.22"/>
+    <text x="1080" y="58" font-size="38" font-weight="bold" fill="#ffffff">RDI</text>
+    <text x="1080" y="88" font-size="13" letter-spacing="2" fill="#cfdde9">PROVISIONAL INDEX</text>
+    <line x1="960" y1="24" x2="960" y2="88" stroke="#ffffff" stroke-opacity="0.22"/>
+  </g>
+</svg>
