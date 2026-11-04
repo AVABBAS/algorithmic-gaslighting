@@ -61,6 +61,12 @@ Please cite the paper. Citation metadata is provided in [CITATION.cff](CITATION.
 }
 ```
 
+## 🔗 Access to the article
+
+- **Longer version (Research Square, open access):** [researchsquare.com/article/rs-10386085](https://www.researchsquare.com/article/rs-10386085)
+- **OSF deposit:** [osf.io/qsvty](https://osf.io/qsvty)
+- **Venue:** position paper submitted to the CALE-AI Workshop at AAAI-27 (Submission 4).
+
 ## ⚖️ Licence
 
 The contents of this repository are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, see [LICENSE](LICENSE)).
@@ -74,8 +80,13 @@ Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mas
 ORCID: [0009-0001-7342-7844](https://orcid.org/0009-0001-7342-7844)
 
 <p align="center">
-  <a href="https://orcid.org/0009-0001-7342-7844"><img src="https://img.shields.io/badge/ORCID-0009--0001--7342--7844-a6ce39" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?user=FWqAHkgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-profile-4285f4" alt="Google Scholar"></a>
+  <a href="mailto:abbashamidavi2002@gmail.com"><img src="https://img.shields.io/badge/Email-abbashamidavi2002@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/AVABBAS"><img src="https://img.shields.io/badge/GitHub-avabbas-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/abbas-hamidavi"><img src="https://img.shields.io/badge/LinkedIn-abbas--hamidavi-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=FWqAHkgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Abbas%20Hamidavi-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Abbas-Hamidavi"><img src="https://img.shields.io/badge/ResearchGate-Abbas--Hamidavi-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://orcid.org/0009-0001-7342-7844"><img src="https://img.shields.io/badge/ORCID-0009--0001--7342--7844-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://avabbas.github.io/academic-cv/"><img src="https://img.shields.io/badge/Website-Academic%20CV-16324f" alt="Academic website"></a>
 </p>
 
 <p align="center">
