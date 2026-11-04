@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-submitted-blue" alt="Status: submitted">
   <img src="https://img.shields.io/badge/venue-CALE--AI%20Workshop%20at%20AAAI--27-1d4266" alt="Venue: CALE-AI Workshop at AAAI-27">
-  <img src="https://img.shields.io/badge/preprint-Research%20Square-orange" alt="Preprint: Research Square">
+  <a href="https://www.researchsquare.com/article/rs-10386085"><img src="https://img.shields.io/badge/preprint-Research%20Square-orange" alt="Preprint: Research Square"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
 </p>
 
